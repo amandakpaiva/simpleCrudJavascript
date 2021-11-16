@@ -1,2 +1,2 @@
-# simpleCrudJavascript
+# simpleCRUDJavascript
 A simple CRUD Javascript
